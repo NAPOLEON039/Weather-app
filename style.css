@@ -1,0 +1,19 @@
+#button{
+  margin-right: 15px;
+}
+#loc{
+  color: #818489;
+}
+.od{
+  font-weight: light;
+  font-size: 12px;
+}
+body{
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; 
+}
+.jumbotron{
+  background: rgba(189, 182, 182, 0.68);
+}
